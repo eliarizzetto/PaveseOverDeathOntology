@@ -1,1 +1,1 @@
-Thi repository contains the PaveseOverDeath ontology.
+This repository contains the PaveseOverDeath ontology.
